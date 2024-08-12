@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ratthinavel Pandian C
 - 👀 I’m a Software Engineering Gradute with a passion for Innovation and Problem solving
 - 🌱 I’m currently doing my PG(MCA) in Rathinam Technical Campus, Coimbatore 
-- 💞️ I have skills in C programming, Python, MySQL, HTML, CSS
+- 💞️ I have skills in C programming, Embedded C, Python, JAVA, MySQL, HTML, CSS, Java Script, MongoDB, and ReactJS
 - 📫 I had made a project for Student Management(Python, MySQL)
 - 😄 I'm currently learning Embedded C Programming
 - ⚡ +91 9488245266
