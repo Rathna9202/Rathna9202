@@ -5,4 +5,4 @@
 - 📫 I had made a project for Student Management(Python, MySQL)
 - 😄 I'm currently learning Embedded C Programming
 - ⚡ +91 9488245266
-- ✨ crathinavelpandian08@gmail.com
+- ✨ mrrathinavelpandian08@gmail.com
