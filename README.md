@@ -2,7 +2,7 @@
 - 👀 I’m a Software Engineering Gradute with a passion for Innovation and Problem solving
 - 🌱 I’m currently doing my PG(MCA) in Rathinam Technical Campus, Coimbatore 
 - 💞️ I have skills in C programming, Embedded C, Python, JAVA, MySQL, HTML, CSS, Java Script, MongoDB, and ReactJS
-- 📫 I had made a project for Student Management(Python, MySQL)
+- 📫 I had made a projects for Smart Street Light(STM32F446RE, LoRa Module, Relay,LCD 2x16), Student Management(Python, MySQL) and Shoe Shop website (HTML, CSS, JavaScript)
 - 😄 I'm currently learning Embedded C Programming
 - ⚡ +91 9488245266
 - ✨ mrrathinavelpandian08@gmail.com
