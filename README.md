@@ -1,4 +1,4 @@
-👋 Hi, I’m Ratthinavel Pandian C
+👋 Hi, I’m Ratthinavel Pandian C 
 👀 I’m a Software Engineering Graduate with a passion for Innovation and Problem Solving
 🌱 I’m currently doing my PG (MCA) at Rathinam Technical Campus, Coimbatore, under Anna University
 💼 I have completed an internship at Phytec Embedded Pvt.Ltd, Bangalore and I’m an Embedded Software Developer
