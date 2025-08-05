@@ -10,7 +10,7 @@
 
 📫 I have worked on projects like:
 
-  -  Electic Vehicle Chargig System [Currently Working] (C++ Programming, Phyverso-AM62x, PLC, ISO15118, MCU, MQTT)
+  -  Electic Vehicle Charging System [Currently Working] (C++ Programming, Phyverso-AM62x, PLC, ISO15118, MCU, MQTT)
     
   -  Smart Street Light (Embedded C, STM32F446RE, LoRa Module, Relay, LCD 2x16, ThingBoard)
   
