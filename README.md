@@ -10,9 +10,9 @@
 
 📫 I have worked on projects like:
 
-  -  Electic Vehicle Charging System [Currently Working] (C++ Programming, Phyverso-AM62x, PLC, ISO15118, MCU, MQTT)
+  -  Electric Vehicle Charging System [Currently Working] (C++ Programming, Phyverso-AM62x, Everest Framework, PLC, ISO15118, OCPP, MCU, MQTT)
     
-  -  Smart Street Light (Embedded C, STM32F446RE, LoRa Module, Relay, LCD 2x16, ThingBoard)
+  -  Smart Street Light (Embedded C, STM32F446RE, Rugged Board A5D2X, LoRa Module, Relay, LCD 2x16, ThingBoard, and MQTT)
   
   -  Automated Planting System (Embedded C, STM32F446RE, Relay, Soil Sensor, Water Pump)
     
